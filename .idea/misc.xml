@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (Snake Game)" />
+  </component>
+  <component name="ColorConfiguration">
+    <option name="background">
+      <ColorContent>
+        <option name="enabled" value="true" />
+        <option name="red" value="63" />
+        <option name="green" value="54" />
+        <option name="blue" value="162" />
+      </ColorContent>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Snake Game)" project-jdk-type="Python SDK" />
+</project>
